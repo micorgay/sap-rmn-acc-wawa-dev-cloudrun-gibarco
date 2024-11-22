@@ -1,0 +1,5 @@
+requests
+google-cloud-storage
+Flask
+selenium
+webdriver-manager
